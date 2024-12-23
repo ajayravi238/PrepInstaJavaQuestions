@@ -11,5 +11,4 @@ public class LengthOfStringWIthoutFunction {
 		}
 		System.out.println(length);
 	}
-
 }
