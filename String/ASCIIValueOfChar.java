@@ -8,5 +8,4 @@ public class ASCIIValueOfChar {
 		char ch = str.charAt(0);
 		System.out.println((int)ch);
 	}
-
 }
