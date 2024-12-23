@@ -15,5 +15,4 @@ public class CountNoOfVowels {
 		}
 		System.out.println(count);
 	}
-
 }
