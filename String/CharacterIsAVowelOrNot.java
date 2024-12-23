@@ -14,5 +14,4 @@ public class CharacterIsAVowelOrNot {
 			System.out.println(ch + " is not a Vowel");
 		}
 	}
-
 }
