@@ -19,5 +19,4 @@ public class Amstrong {
 	    	System.out.println(num + " is not Amstrong");
 	    }
 	}
-
 }
