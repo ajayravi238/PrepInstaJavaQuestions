@@ -18,5 +18,4 @@ public class AbundantNumber {
 			System.out.println(num + " is not abudant number");
 		}
 	}
-
 }
