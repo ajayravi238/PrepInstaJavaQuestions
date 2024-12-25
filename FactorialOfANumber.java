@@ -11,5 +11,4 @@ public class FactorialOfANumber {
 		}
 		System.out.println(fact);
 	}
-
 }
